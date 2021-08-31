@@ -213,4 +213,8 @@ footer {
     display: grid;
     grid-template-columns: 1fr;
   }
+   .services img {
+    /* object-fit: contain; */
+    width: 150px;
+  }
 }
