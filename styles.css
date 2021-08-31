@@ -200,6 +200,12 @@ footer {
       "pro-membership"
       "membership";
   }
+  
+    .gallery img {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
 
 @media (max-width: 400px) {
